@@ -1,0 +1,4 @@
+title: Writings
+tagline: Essays and notes on ideas I find beautiful
+kind: writings
+docs_glob: "*.pdf"
