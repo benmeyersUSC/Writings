@@ -1,5 +1,5 @@
 title: Writings
-tagline: Essays and notes on ideas I find beautiful
+tagline: Essays and notes on ideas I find beautiful.
 kind: writings
 order: 0
 
@@ -9,6 +9,15 @@ order: 0
 docs:
   - path: Ben_Meyers_Resume.pdf
     title: Résumé
-    # description: One page. Updated August 2026.
+    description: One page résumé. Updated August 2026.
+  - path: j-vision.pdf
+    title: J Vision
+    description: Rigorous technical explanation of Anthropic's J-Lens and J-Space interpretability techniques proposed in July 2026. Brief explanation of the Transformer, the computation and intuitions behind the Jacobian Lens and J-Space, interventional experiments they conducted---all with rich LaTeX diagrams.
+  - path: Error_Correcting_Codes.pdf
+    title: Error Correcting Codes
+    description: LaTeX document explaining and appreciating Hamming and Hadamard error-correcting codes.
+  - path: ShannonKelly.pdf
+    title: Shannon Kelly
+    description: Short document detailing the connections between Shannon's Information Theory, Entropy, Kullback-Leibler Divergence and corresponding concepts in John Kelly's formulae for gambling and finance. Looser interpretation of Black-Scholes Price as an entropic or information-related value. 
 
 docs_glob: "*.pdf"
