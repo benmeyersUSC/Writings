@@ -1,4 +1,14 @@
 title: Writings
 tagline: Essays and notes on ideas I find beautiful
 kind: writings
+order: 0
+
+# Explicitly-listed docs appear first, in this order, and may carry a
+# description. Anything not listed here is still picked up by docs_glob
+# below, alphabetically, with a title derived from its filename.
+docs:
+  - path: Ben_Meyers_Resume.pdf
+    title: Résumé
+    # description: One page. Updated August 2026.
+
 docs_glob: "*.pdf"
