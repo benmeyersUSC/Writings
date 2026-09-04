@@ -10,7 +10,7 @@ docs:
   - path: Ben_Meyers_Resume.pdf
     title: Résumé
     description: One page résumé. Updated August 2026.
-  - path: J-Vision.pdf
+  - path: J_Vision.pdf
     title: J Vision
     description: Rigorous technical explanation of Anthropic's J-Lens and J-Space interpretability techniques proposed in July 2026. Brief explanation of the Transformer, the computation and intuitions behind the Jacobian Lens and J-Space, interventional experiments they conducted---all with rich LaTeX diagrams.
   - path: Error_Correcting_Codes.pdf
